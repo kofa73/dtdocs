@@ -43463,7 +43463,7 @@ msgstr "AgX"
 msgid "Transform the colors and tonal range of an image to fit a display.\n"
 msgstr ""
 "AgX verändert die Farben und den Tonwertbereich des Bildes um es an die "
-"Bildschirmdarstelung anzupassen.\n"
+"Bildschirmdarstellung anzupassen.\n"
 
 #. type: Plain text
 #: content/module-reference/processing-modules/agx.md:10
