@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-11-07 04:02+0000\n"
+"POT-Creation-Date: 2026-11-08 04:52+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -5023,7 +5023,7 @@ msgstr ""
 #. type: Plain text
 #: content/module-reference/utility-modules/darkroom/navigation.md
 #, markdown-text, no-wrap
-msgid "The navigation panel can be toggled on/off with a keyboard shortcut (Ctrl+Shift+N by default).\n"
+msgid "The navigation panel can be toggled on/off with a keyboard shortcut (Ctrl+Shift+N by default) or in the left panel's right-click menu.\n"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
